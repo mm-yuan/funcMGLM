@@ -23,4 +23,4 @@ fit = mvglmer(formulas = list(log(serBilir) ~  ns(year,2) + sex + drug + (ns(yea
 
 ## Installation
 
-This package is not published.
+
